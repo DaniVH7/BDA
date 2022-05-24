@@ -1,0 +1,101 @@
+idproducto,producto,categoria,preciounitario,existencias,unidad
+1,amet,blancos,135,54,pieza
+2,auctor,vinos y licores,657,81,pieza
+3,diam,vinos y licores,361,92,pieza
+4,ut,blancos,514,39,pieza
+5,in,vinos y licores,158,0,pieza
+6,egestas,vinos y licores,175,45,pieza
+7,eros,blancos,515,55,pieza
+8,elementum,blancos,423,96,pieza
+9,risus.,vinos y licores,107,22,pieza
+10,Integer,blancos,762,14,pieza
+11,imperdiet,blancos,848,78,pieza
+12,Aenean,vinos y licores,653,49,pieza
+13,dolor,blancos,837,22,pieza
+14,Quisque,vinos y licores,567,60,pieza
+15,nascetur,blancos,511,37,pieza
+16,lacus.,vinos y licores,325,30,pieza
+17,interdum.,blancos,980,10,pieza
+18,dis,blancos,952,20,pieza
+19,urna.,blancos,863,68,pieza
+20,urna,blancos,818,54,pieza
+21,Nullam,blancos,514,73,pieza
+22,ornare,blancos,478,57,pieza
+23,quis,vinos y licores,166,96,pieza
+24,fermentum,blancos,560,79,pieza
+25,mollis,vinos y licores,671,67,pieza
+26,in,blancos,554,42,pieza
+27,turpis,vinos y licores,817,65,pieza
+28,Vivamus,vinos y licores,590,54,pieza
+29,nec,vinos y licores,743,25,pieza
+30,justo.,blancos,276,26,pieza
+31,ullamcorper,blancos,398,67,pieza
+32,aliquet.,blancos,862,70,pieza
+33,a,blancos,295,67,pieza
+34,nec,vinos y licores,490,88,pieza
+35,mi,blancos,238,81,pieza
+36,elit,blancos,150,49,pieza
+37,est.,blancos,998,4,pieza
+38,Fusce,vinos y licores,566,31,pieza
+39,lacus,vinos y licores,342,41,pieza
+40,nisl.,vinos y licores,466,71,pieza
+41,turpis.,blancos,92,81,pieza
+42,Donec,blancos,943,17,pieza
+43,sit,blancos,694,18,pieza
+44,Proin,blancos,762,94,pieza
+45,purus.,blancos,303,8,pieza
+46,vitae,blancos,689,38,pieza
+47,et,blancos,142,91,pieza
+48,non,vinos y licores,989,50,pieza
+49,faucibus,blancos,749,34,pieza
+50,sed,vinos y licores,644,81,pieza
+51,metus.,vinos y licores,352,31,pieza
+52,auctor,vinos y licores,559,96,pieza
+53,Phasellus,blancos,946,89,pieza
+54,nec,vinos y licores,858,77,pieza
+55,sapien.,vinos y licores,236,29,pieza
+56,feugiat.,vinos y licores,141,55,pieza
+57,Suspendisse,blancos,334,24,pieza
+58,porttitor,vinos y licores,803,22,pieza
+59,Fusce,blancos,127,42,pieza
+60,condimentum,vinos y licores,362,97,pieza
+61,Duis,blancos,228,40,pieza
+62,nibh,vinos y licores,743,62,pieza
+63,nec,vinos y licores,884,12,pieza
+64,Donec,blancos,347,57,pieza
+65,mollis,blancos,97,13,pieza
+66,mi,vinos y licores,495,37,pieza
+67,aliquam,vinos y licores,34,10,pieza
+68,fringilla,vinos y licores,531,38,pieza
+69,at,blancos,192,99,pieza
+70,In,vinos y licores,541,54,pieza
+71,eu,vinos y licores,559,69,pieza
+72,aliquet,blancos,491,24,pieza
+73,nec,vinos y licores,484,34,pieza
+74,sed,blancos,971,26,pieza
+75,leo,blancos,779,39,pieza
+76,nisl,blancos,896,31,pieza
+77,mus.,vinos y licores,756,83,pieza
+78,risus,blancos,147,36,pieza
+79,convallis,vinos y licores,932,53,pieza
+80,semper,blancos,31,94,pieza
+81,sagittis.,blancos,262,24,pieza
+82,tincidunt,vinos y licores,953,8,pieza
+83,amet,blancos,77,29,pieza
+84,litora,vinos y licores,859,24,pieza
+85,Suspendisse,blancos,270,41,pieza
+86,nulla.,blancos,471,24,pieza
+87,Cum,blancos,27,18,pieza
+88,ac,blancos,616,4,pieza
+89,dis,blancos,658,28,pieza
+90,varius.,blancos,404,88,pieza
+91,nonummy,blancos,393,63,pieza
+92,Etiam,blancos,229,5,pieza
+93,Proin,blancos,184,46,pieza
+94,iaculis,blancos,114,75,pieza
+95,libero,vinos y licores,102,79,pieza
+96,Sed,vinos y licores,68,64,pieza
+97,velit,vinos y licores,688,100,pieza
+98,cursus.,vinos y licores,240,68,pieza
+99,at,blancos,916,45,pieza
+100,vitae,blancos,537,3,pieza
